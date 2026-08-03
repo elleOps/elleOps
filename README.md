@@ -57,10 +57,6 @@ I'm a budding cybersecurity enthusiast who loves poking at how systems break so 
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elleOps&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elleOps/elleOps/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elleOps/elleOps/output/pacman-contribution-graph.svg">
