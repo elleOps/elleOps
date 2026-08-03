@@ -1,3 +1,0 @@
-git add filename.txt
-git commit -m "Remove filename.txt"
-git push
